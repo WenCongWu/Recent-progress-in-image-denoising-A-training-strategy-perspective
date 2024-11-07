@@ -1,4 +1,4 @@
-Recent progress in image denoising: A training strategy perspective by Wencong Wu, Mingfei Chen, Yu Xiang, Yungang Zhang, Yang Yang is publised in IET Image Processing. Paper download:  [Download](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12748)
+Recent progress in image denoising: A training strategy perspective by Wencong Wu, Mingfei Chen, Yu Xiang, Yungang Zhang and Yang Yang is publised in IET Image Processing. Paper download:  [Download](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12748)
 
 # Citation
 If you find our work helpful for your research, please consider citing it.
